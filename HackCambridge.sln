@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackCambridge.CSharp.Plugins", "HackCambridge.CSharp.Plugins.csproj", "{91E5DCF1-6948-A550-6E3E-6AABF49F4E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackCambridge.CSharp", "HackCambridge.CSharp.csproj", "{0838D5CB-6C78-BC19-5E4A-D7C3AA4EFB62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackCambridge.CSharp.Editor", "HackCambridge.CSharp.Editor.csproj", "{BF7D2A13-FC26-147F-9561-30715DBDD803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91E5DCF1-6948-A550-6E3E-6AABF49F4E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E5DCF1-6948-A550-6E3E-6AABF49F4E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E5DCF1-6948-A550-6E3E-6AABF49F4E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E5DCF1-6948-A550-6E3E-6AABF49F4E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0838D5CB-6C78-BC19-5E4A-D7C3AA4EFB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0838D5CB-6C78-BC19-5E4A-D7C3AA4EFB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0838D5CB-6C78-BC19-5E4A-D7C3AA4EFB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0838D5CB-6C78-BC19-5E4A-D7C3AA4EFB62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7D2A13-FC26-147F-9561-30715DBDD803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7D2A13-FC26-147F-9561-30715DBDD803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7D2A13-FC26-147F-9561-30715DBDD803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7D2A13-FC26-147F-9561-30715DBDD803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
